@@ -1,0 +1,23 @@
+h1#main{
+    font-size: 30px;
+    text-align: center;
+}
+h2#main{
+    font-size: 30px;
+    text-align: right;
+}
+dt{
+    font-size: 20px;
+}
+.box1 {
+    background:#cee9f8; /*背景色の指定*/
+    padding:10px;
+}
+.box2 {
+    background:#cef8d8; /*背景色の指定*/
+    padding:10px;
+}
+.box3 {
+    background:#f0cef8; /*背景色の指定*/
+    
+}
